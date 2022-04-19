@@ -1,0 +1,21 @@
+body{
+background-color: rgb(0, 255, 208);
+}
+.caption {
+    display: block;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 60px;
+    font-style: italic;
+    line-height: 34px;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
+    text-align: left;
+    top: 50%;
+    width: 90%;
+    font-weight: bold;
+    color: blue;
+    }
+h1{
+text-decoration:underline;
+}
